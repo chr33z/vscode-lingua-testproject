@@ -1,0 +1,10 @@
+{
+    "welcome": "Welcome to ",
+    "hello": "Hello",
+    "tour": {
+        "start": "Here are some links to help you start:",
+        "title": "Tour of heroes!",
+        "documentation-link": "CLI Documentation",
+        "blog-link": "Angular Blog"
+    }
+}
