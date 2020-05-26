@@ -1,11 +1,12 @@
 {
     "welcome": "Welcome to ",
-    "hello": "Hello",
+    "hello": "Text",
     "tour": {
-        "start": "Here are some links to help you start:",
+        "start": "Text",
         "title": "Tour of heroes!",
         "documentation-link": "CLI Documentation",
-        "blog-link": "Angular Blog"
+        "blog-link": "Angular Blog",
+        "appended": "Text"
     },
     "missing-translation": "Missing Translation",
     "missing": {
@@ -13,5 +14,10 @@
     },
     "combine": {
         "0": "Combined 0"
+    },
+    "some": {
+        "new": {
+            "identifier": "Text"
+        }
     }
 }
