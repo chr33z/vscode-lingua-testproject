@@ -1,0 +1,12 @@
+{
+    "welcome": "Welcome to ",
+    "hello": "Hello",
+    "tour.start": "Here are some links to help you start:",
+    "tour.title": "Tour of heroes!",
+    "tour.documentation-link": "CLI Documentation",
+    "tour.blog-link": "Angular Blog",
+    "missing-translation": "Missing Translation",
+    "missing.translation": "Another Missing Translation",
+    "combine.0": "Combined 0",
+    "this.is.a.flat.translation.path": "Some Translation"
+}

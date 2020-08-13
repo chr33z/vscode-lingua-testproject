@@ -1,0 +1,5 @@
+{
+    "lingua.warnFlatAndMixedTranslationKeys": false,
+    "lingua.warnAboutFlatAndMixedTranslationKeys": false,
+    "lingua.defaultLanguage": "en"
+}
